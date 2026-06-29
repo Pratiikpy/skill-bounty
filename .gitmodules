@@ -1,0 +1,3 @@
+[submodule "skills/solana-assurance-suite"]
+	path = skills/solana-assurance-suite
+	url = https://github.com/Pratiikpy/solana-assurance-suite.git
